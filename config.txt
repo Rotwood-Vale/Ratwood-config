@@ -14,7 +14,7 @@ $include antag_rep.txt
 # There are various options which are hard-locked for security reasons.
 
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Uncomment and replace 'tgstation' with the name of your choice.
-SERVERNAME Ratwood Keep [18+ Only]
+SERVERNAME Ratwood Keep [18+ Only] - Apply on Discord!
 
 ## Server tagline: This will appear right below the server's title.
 SERVERTAGLINE Pure Immersion - Anthros Allowed Medieval Roleplay
