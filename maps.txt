@@ -18,3 +18,7 @@ map roguetown
 	#voteweight 1.5
 	votable
 endmap
+
+map blackstonedense
+    votable
+endmap
