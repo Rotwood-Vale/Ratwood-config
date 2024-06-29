@@ -1,3 +1,4 @@
 <!-- Most valid html will work in here, excluding images. -->
 Ratwood Keep Discord Server: <a href="https://discord.gg/aUDM8nemkh">https://discord.gg/aUDM8nemkh</a>
-<center>* Playtest phase - we'd like to hear about the bugs and your suggestions *</center>
+<center>* Playtest Phase *</center>
+<center>* Report bugs and suggestions to <a href="https://github.com/Rotwood-Vale/Ratwood-Keep/issues">GitHub</a> *</center>
