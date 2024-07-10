@@ -34,6 +34,11 @@
 #EVERYTHING = Simply gives you everything without having to type every flag.
 #@ = special keyword for the current permission type that adds all the keywords that the preceding rank has of the same type.
 
+Name = Observer
+Include = WATCH
+Exclude = 
+Edit =
+
 Name = Trial Admin
 Include = ADMIN SPAWN VAREDIT WATCH
 Exclude = 
