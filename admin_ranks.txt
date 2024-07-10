@@ -47,7 +47,7 @@ Edit =
 Name = Game Admin
 Include = ADMIN SPAWN VAREDIT WATCH POSSESS POLL BUILD SERVER FUN STEALTH SOUND DEBUG BAN
 Exclude =
-Edit =
+Edit = WATCH
 
 Name = Host
 Include = EVERYTHING
