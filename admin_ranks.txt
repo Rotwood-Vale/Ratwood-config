@@ -39,6 +39,12 @@ Include = WATCH
 Exclude = 
 Edit =
 
+#To be temporarily given to players
+Name = Event Runner
+Include = SPAWN VAREDIT WATCH POSSESS BUILD FUN SOUND
+Exclude =
+Edit = 
+
 Name = Trial Admin
 Include = ADMIN SPAWN VAREDIT WATCH
 Exclude = 
@@ -48,6 +54,11 @@ Name = Game Admin
 Include = ADMIN SPAWN VAREDIT WATCH POSSESS POLL BUILD SERVER FUN STEALTH SOUND DEBUG BAN
 Exclude =
 Edit = WATCH
+
+Name = Head Admin
+Include = PERMISSIONS ADMIN SPAWN VAREDIT WATCH POSSESS POLL BUILD SERVER FUN STEALTH SOUND DEBUG BAN
+Exclude =
+Edit = ADMIN SPAWN VAREDIT WATCH POSSESS POLL BUILD SERVER FUN STEALTH SOUND DEBUG BAN
 
 Name = Host
 Include = EVERYTHING
