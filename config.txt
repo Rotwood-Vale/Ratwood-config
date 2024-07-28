@@ -241,10 +241,10 @@ USEBLACKLIST
 DISCORDURL https://discord.gg/Q9eDp9srmX
 
 ## Wiki address
-WIKIURL https://wiki.moviesfreepremium.xyz/blackstone
+WIKIURL https://wiki.ratwood.rip
 
 ## Rules address
-RULESURL https://wiki.moviesfreepremium.xyz/blackstone/rules
+RULESURL https://wiki.ratwood.rip
 
 ## Github address
 GITHUBURL https://github.com/Rotwood-Vale/Rotwood-Vale
