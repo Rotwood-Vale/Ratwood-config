@@ -1,1 +1,1 @@
-{{RSC_URL}}
+{{RSCURL}}
