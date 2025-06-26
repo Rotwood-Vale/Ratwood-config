@@ -23,3 +23,8 @@ map byosfinal
 	votable
 	#voteweight 1
 endmap
+
+map rockhillazure
+	votable
+	#voteweight 1
+endmap
