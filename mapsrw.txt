@@ -28,3 +28,8 @@ map rockhillazure
 	votable
 	#voteweight 1
 endmap
+
+map deserttown
+	votable
+	#voteweight 1
+endmap
