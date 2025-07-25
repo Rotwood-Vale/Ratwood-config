@@ -33,3 +33,7 @@ map deserttown
 	votable
 	#voteweight 1
 endmap
+
+map pirate_rockhill
+	votable
+endmap
