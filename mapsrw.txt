@@ -41,3 +41,7 @@ map spookmanor
 	default
 	votable
 endmap
+
+map heartfelt
+	votable
+endmap
